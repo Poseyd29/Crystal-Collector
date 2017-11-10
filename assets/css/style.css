@@ -1,0 +1,72 @@
+body {
+
+	width: 1100px;
+	background-color: lightblue;
+}
+
+#wrapper {
+	width: 1100px;
+	background-color: lightblue;
+}
+
+
+
+
+#purpletext {
+	color: purple;
+}
+
+.container {
+
+	width: 40%;
+}
+
+#title {
+
+	background-color: lightgreen;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+
+#instructions {
+
+	width: 50%;
+	background-color: beige;
+}
+
+
+#target {
+
+	width: 25%;
+	background-color: orange;
+	float: left;
+	padding-bottom: 50px;
+}
+
+#wins-loss {
+
+	width: 15%;
+	background-color: lavender;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 22px;
+}
+
+#scoreboard {
+
+	background-color: pink;
+	width: 40%;
+	clear: both;
+}
+
+
+#crystals {
+	
+	clear: both;
+}
+
+.crystal-image {
+
+	width:120px;
+}
