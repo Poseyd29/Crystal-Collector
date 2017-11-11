@@ -38,7 +38,7 @@ body {
 
 #target {
 
-	width: 25%;
+	width: 45%;
 	background-color: orange;
 	float: left;
 	padding-bottom: 50px;
@@ -51,6 +51,8 @@ body {
 	float: left;
 	padding-top: 10px;
 	padding-bottom: 22px;
+	margin-left: 5px;
+    padding-right: 10px;
 }
 
 #scoreboard {
@@ -58,6 +60,8 @@ body {
 	background-color: pink;
 	width: 40%;
 	clear: both;
+	padding-bottom: 40px;
+
 }
 
 
@@ -68,5 +72,7 @@ body {
 
 .crystal-image {
 
-	width:120px;
+	width:130px;
+	height: 178px;
 }
+
